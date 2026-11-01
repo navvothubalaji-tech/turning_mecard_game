@@ -1,0 +1,10 @@
+{
+  "name": "Wildbond: Echoes of Gearfall",
+  "description": "An original 3D mechanical animal adventure game where players explore Gearfall Meadow, equip Mecard capture cards, and tame wild mechanimals with voice commands.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
